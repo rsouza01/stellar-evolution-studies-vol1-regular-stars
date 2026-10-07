@@ -9,7 +9,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
-![Last Commit](https://img.shields.io/github/last-commit/rsouza01/stellar-evolution-studies)
+![Last Commit](https://img.shields.io/github/last-commit/rsouza01/stellar-evolution-studies-vol1-regular-stars)
 
 ![Made with Love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)![Powered by Coffee](https://img.shields.io/badge/powered%20by-coffee-brown)
 
