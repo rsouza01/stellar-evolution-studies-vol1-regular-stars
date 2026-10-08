@@ -1,4 +1,4 @@
-# Stellar Physics Study Program: from Formation to Death, with a MESA-like Code
+# Stellar Physics Study Program: from Formation to Death
 
 ---
 
